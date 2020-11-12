@@ -1,0 +1,43 @@
+TV2 Sharknado
+TV2 Westworld
+RTL Breaking Bad
+RTL Sherlock
+RTL The Fall
+RTL Westworld
+RTL The Big Bang Theory
+M1 Breaking Bad
+M1 The Blacklist
+M1 The Walking Dead
+M1 Daredevil
+M1 Westworld
+M2 The Walking Dead
+M2 Taboo
+M2 Daredevil
+M2 Game of Thrones
+M2 Narcos
+M2 Mr. Robot
+Duna Lost
+Duna The Walking Dead
+AMC Preacher
+AMC Taboo
+AMC Westworld
+AMC Mr. Robot
+FOX Lost
+FOX Sherlock
+FOX The Walking Dead
+FOX Taboo
+FOX Daredevil
+AXN Prison Break
+AXN Breaking Bad
+AXN Sherlock
+AXN Daredevil
+AXN Taboo
+AXN Game of Thrones
+AXN The Big Bang Theory
+Viasat3 Lost
+Viasat3 Preacher
+Viasat3 Sharknado
+Viasat3 The Walking Dead
+Viasat3 Taboo
+Viasat3 Narcos
+Viasat3 Mr. Robot

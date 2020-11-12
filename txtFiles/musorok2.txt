@@ -1,0 +1,415 @@
+Sky Homeland
+Sky Arrow
+Sky Lucifer
+Sky Archer
+Sky Heroes
+Sky The Big Bang Theory
+Sky Narcos
+Sky X-Files
+Sky Hannibal
+Sky Daredevil
+Sky Star Trek
+Sky Boardwalk Empire
+Sky Twin Peaks
+BBC The Blacklist
+BBC Fargo
+BBC Brickleberry
+BBC Supernatural
+BBC Fargo
+BBC Brickleberry
+BBC Supernatural
+BBC Luther
+BBC Mr. Robot
+ABC Prison Break
+ABC Vikings
+ABC Lost
+ABC Arrow
+ABC Better Call Saul
+ABC Taboo
+ABC House
+ABC The Office
+ABC Brickleberry
+ABC Supernatural
+Prime Arrow
+Prime Homeland
+Prime The Fall
+Prime Archer
+Prime Sharknado
+Prime House of Cards
+Prime Heroes
+Prime Louie
+Prime Narcos
+Prime Prison Break
+Prime True Detective
+Prime Taboo
+Prime Westworld
+Prime Flash
+M1 Better Call Saul
+M1 Lucifer
+M1 Sherlock
+M1 Gotham
+M1 Ballers
+M1 Daredevil
+M1 The Night of
+M1 Boardwalk Empire
+M1 Star Trek
+M1 Silicon Valley
+M1 The Big Bang Theory
+Duna Lost
+M2 The Fall
+M2 Preacher
+M2 House
+M2 The IT Crowd
+M2 The Sopranos
+Story4 Lost
+Story4 Arrow
+Story4 Top Gear
+Story4 Doctor Who
+Story4 The Night of
+Story4 The IT Crowd
+Story4 Luther
+Story4 Hard Knocks
+RTL+ The Sopranos
+Cool Better Call Saul
+Cool Arrow
+Cool True Detective
+Cool South Park
+Cool The Big Bang Theory
+TLC Gotham
+TLC Preacher
+TLC South Park
+TLC House of Cards
+TLC Jessica Jones
+TLC Fargo
+TLC X-Files
+TLC Civil War
+TLC Family Guy
+TLC The IT Crowd
+MSNBC Breaking Bad
+MSNBC Homeland
+MSNBC The Wire
+MSNBC The Walking Dead
+MSNBC Fargo
+MSNBC Jessica Jones
+MSNBC The Walking Dead
+MSNBC Fargo
+MSNBC Jessica Jones
+MSNBC The Night of
+MSNBC Taboo
+MSNBC Star Trek
+MSNBC The IT Crowd
+RTL Lost
+RTL 24
+RTL The Fall
+RTL Ballers
+RTL Archer
+RTL House
+RTL Narcos
+RTL The Blacklist
+RTL Jessica Jones
+RTL The Walking Dead
+RTL The Night of
+RTL Battlestar Galactica
+RTL The IT Crowd
+RTL Mr. Robot
+Film+ Arrow
+Film+ Homeland
+Film+ Better Call Saul
+Film+ House of Cards
+Film+ Doctor Who
+Film+ Civil War
+Film+ Game of Thrones
+Film+ The Office
+Film+ The Big Bang Theory
+Film+ Louie
+Film+ Prison Break
+Film+ Battlestar Galactica
+Film+ Family Guy
+Film+ Westworld
+Film+ Silicon Valley
+Film+ The Sopranos
+Film+ Twin Peaks
+MTV The Wire
+MTV House
+MTV Firefly
+MTV The Big Bang Theory
+NBC Breaking Bad
+NBC Sherlock
+NBC Top Gear
+NBC South Park
+NBC Friends
+NBC House of Cards
+NBC The Blacklist
+NBC Top Gear
+NBC South Park
+NBC Friends
+NBC House of Cards
+NBC The Blacklist
+NBC Taboo
+NBC Brickleberry
+NBC Mr. Robot
+Lifenetwork Vikings
+Lifenetwork Homeland
+Lifenetwork The Fall
+Lifenetwork Gotham
+Lifenetwork Archer
+Lifenetwork The Wire
+Lifenetwork Firefly
+Lifenetwork The Sopranos
+HBO Breaking Bad
+HBO The Fall
+HBO The Wire
+HBO House of Cards
+HBO Civil War
+HBO Game of Thrones
+HBO Louie
+HBO Narcos
+HBO Vikings
+HBO Fargo
+HBO The Night of
+HBO Taboo
+HBO Star Trek
+HBO Family Guy
+HBO Making a Murderer
+HBO Twin Peaks
+CBS Breaking Bad
+CBS Homeland
+CBS Top Gear
+C8 Lost
+C8 Arrow
+C8 Archer
+C8 Friends
+C8 Hard Knocks
+C8 Sherlock
+C8 True Detective
+C8 Preacher
+C8 Jessica Jones
+C8 X-Files
+C8 Battlestar Galactica
+C8 Boardwalk Empire
+C8 Silicon Valley
+C8 The IT Crowd
+C8 The Sopranos
+C8 Luther
+Spektrum Arrow
+Spektrum Homeland
+Spektrum Better Call Saul
+Spektrum The Wire
+Spektrum South Park
+Spektrum Heroes
+Spektrum Narcos
+Spektrum Gotham
+Spektrum Preacher
+Spektrum Fargo
+Spektrum The Walking Dead
+Spektrum The Night of
+Spektrum X-Files
+Spektrum Daredevil
+Spektrum Taboo
+Spektrum Brickleberry
+AMC Prison Break
+AMC Breaking Bad
+AMC Narcos
+Showtime Breaking Bad
+Showtime Ballers
+Showtime Top Gear
+Showtime Doctor Who
+Showtime Game of Thrones
+Showtime Firefly
+Showtime Louie
+Showtime Prison Break
+Showtime Preacher
+Showtime Fargo
+Showtime Dexter
+Showtime The IT Crowd
+Showtime Luther
+Showtime Making a Murderer
+Filmbox Lucifer
+Filmbox South Park
+Filmbox Heroes
+Filmbox Game of Thrones
+Filmbox Firefly
+Filmbox Louie
+Filmbox Narcos
+Filmbox Hard Knocks
+Filmbox Sherlock
+Filmbox Fargo
+Filmbox The Walking Dead
+Filmbox Jessica Jones
+Filmbox Taboo
+Filmbox Battlestar Galactica
+Filmbox Supernatural
+Minimax Breaking Bad
+Minimax 24
+Minimax Top Gear
+Minimax South Park
+Minimax House
+Minimax The Office
+Minimax Louie
+Minimax Narcos
+Minimax Hard Knocks
+Minimax Battlestar Galactica
+Minimax Boardwalk Empire
+Minimax Brickleberry
+Minimax Westworld
+Minimax The IT Crowd
+Minimax Supernatural
+Minimax Flash
+Euronews The Blacklist
+Euronews X-Files
+Euronews Civil War
+Euronews The IT Crowd
+MoviePlex Better Call Saul
+MoviePlex Arrow
+MoviePlex 24
+MoviePlex The Fall
+MoviePlex The Wire
+MoviePlex Friends
+MoviePlex Game of Thrones
+MoviePlex The Fall
+MoviePlex The Wire
+MoviePlex Friends
+MoviePlex Game of Thrones
+MoviePlex The Big Bang Theory
+MoviePlex True Detective
+MoviePlex Sherlock
+MoviePlex X-Files
+MoviePlex Hannibal
+MoviePlex Dexter
+MoviePlex The Sopranos
+Film+2 24
+Film+2 Top Gear
+Film+2 The Wire
+Film+2 Doctor Who
+Film+2 Heroes
+Film+2 House
+Film+2 Firefly
+Film+2 The Big Bang Theory
+Film+2 True Detective
+Film+2 The Blacklist
+Film+2 Fargo
+Film+2 Daredevil
+Film+2 The Night of
+Film+2 Silicon Valley
+Film+2 Making a Murderer
+Film+2 Luther
+Film+2 Mr. Robot
+DOQ Lost
+DOQ Jessica Jones
+DOQ Taboo
+DOQ Doctor Who
+DOQ Civil War
+DOQ Boardwalk Empire
+DOQ Star Trek
+DOQ Brickleberry
+DOQ Twin Peaks
+SuperTV2 Better Call Saul
+SuperTV2 Preacher
+SuperTV2 X-Files
+SuperTV2 Boardwalk Empire
+SuperTV2 The Big Bang Theory
+Viasat3 True Detective
+Viasat3 The Walking Dead
+Viasat3 Battlestar Galactica
+Viasat3 The Night of
+Viasat3 Family Guy
+Viasat3 Dexter
+Viasat3 Supernatural
+Viasat3 Narcos
+Viasat3 Twin Peaks
+Cinemax Better Call Saul
+Cinemax Arrow
+Cinemax The Fall
+Cinemax Game of Thrones
+Cinemax Firefly
+Cinemax The Office
+Cinemax Vikings
+Cinemax Gotham
+Cinemax Hannibal
+Cinemax Family Guy
+Cinemax Brickleberry
+Cinemax The IT Crowd
+Cinemax Silicon Valley
+Cinemax Dexter
+Nickelodeon Lost
+Nickelodeon Breaking Bad
+Nickelodeon South Park
+Nickelodeon House
+Nickelodeon Game of Thrones
+Nickelodeon The Big Bang Theory
+Nickelodeon Louie
+Nickelodeon Narcos
+Nickelodeon Preacher
+Nickelodeon Fargo
+Nickelodeon The Walking Dead
+Nickelodeon Taboo
+Nickelodeon Westworld
+Nickelodeon The Sopranos
+Nickelodeon Twin Peaks
+FOX Arrow
+FOX The Fall
+FOX Archer
+FOX Heroes
+FOX House
+FOX Dexter
+FOX The IT Crowd
+FOX Supernatural
+Viasat6 Arrow
+Viasat6 Homeland
+Viasat6 24
+Viasat6 House
+Viasat6 Game of Thrones
+Viasat6 The Big Bang Theory
+Viasat6 Gotham
+Viasat6 Jessica Jones
+Viasat6 Hannibal
+Viasat6 X-Files
+Viasat6 Boardwalk Empire
+Viasat6 Family Guy
+Viasat6 The IT Crowd
+Viasat6 Dexter
+Viasat6 Making a Murderer
+Viasat6 Mr. Robot
+TV2 Arrow
+TV2 Breaking Bad
+TV2 Lost
+TV2 24
+TV2 Sharknado
+TV2 South Park
+TV2 Friends
+TV2 House of Cards
+TV2 Game of Thrones
+TV2 True Detective
+TV2 X-Files
+TV2 Taboo
+TV2 Star Trek
+TV2 Dexter
+TV2 Supernatural
+AXN Lost
+AXN Lucifer
+AXN Friends
+AXN Heroes
+AXN Louie
+AXN Vikings
+AXN True Detective
+AXN The Walking Dead
+AXN Battlestar Galactica
+AXN X-Files
+AXN Boardwalk Empire
+AXN Making a Murderer
+AXN Mr. Robot
+Story5 The Wire
+Story5 The Night of
+Story5 Family Guy
+Story5 Dexter
+Boomerang Sherlock
+Boomerang Ballers
+Boomerang Preacher
+Boomerang The Night of
+Boomerang X-Files
+Boomerang Daredevil
+Boomerang Game of Thrones
+Boomerang The IT Crowd
+Boomerang Supernatural
+Boomerang Making a Murderer
+Boomerang The Big Bang Theory

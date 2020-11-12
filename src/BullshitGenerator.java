@@ -24,18 +24,17 @@ public class BullshitGenerator {
         System.out.println(words);
     }
 
-    public static void generateSentence (String from, ArrayList<String> words, int number) {
+    public static void generateSentence(String from, ArrayList<String> words, int number) {
         ArrayList<String> sentence = new ArrayList<>();
         int index = 0;
         int count = 0;
         for (int i = 0; i < words.size(); i++) {
-            if (from.equals(words.get(i))){
+            if (from.equals(words.get(i))) {
                 sentence.add(words.get(i));
                 index = i;
-                count ++;
+                count++;
                 break;
-            }
-            else if (count == 0){
+            } else if (count == 0) {
                 System.out.println("Ez a szó nem szerepel a szövegben, kérem adjon meg egy új szót!");
             }
         }
@@ -58,7 +57,7 @@ public class BullshitGenerator {
         System.out.println(sentence);*/
         HashMap<String, Integer> x = new HashMap<>();
         for (int i = index + 1; i < words.size(); i++) {
-            if (x.containsKey(words.get(i))){
+            if (x.containsKey(words.get(i))) {
                 int counter = x.get(words.get(i)) + 1;
                 x.put(words.get(i), counter);
             }
@@ -70,7 +69,7 @@ public class BullshitGenerator {
             int minValue = 0;
             String actualString = "";
             for (Map.Entry<String, Integer> wordEntries : xy) {
-                if (wordEntries.getValue() > minValue && !sentence.contains(wordEntries.getKey())){
+                if (wordEntries.getValue() > minValue && !sentence.contains(wordEntries.getKey())) {
                     minValue = wordEntries.getValue();
                     actualString = wordEntries.getKey();
                 }
@@ -79,4 +78,10 @@ public class BullshitGenerator {
         }
         System.out.println(sentence);
     }
+
+    /*public static void useInterface (){
+        Scanner sc1 = new Scanner(System.in);
+        System.out.println("szemantikai elemzést vagy bullshit generálást szeretne csinálni?");
+        String firstInput = sc1.next();
+        if (firstInput.equals("szemantikai elemzés"))*/
 }
